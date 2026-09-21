@@ -8,7 +8,9 @@ From this directory, run `python3 -m http.server 8000`, then open `http://localh
 
 ## Publishing
 
-The site is ready for GitHub Pages from the repository root. Enable **Settings → Pages → Deploy from a branch → main → /(root)**. The free project address is `https://tony132321.github.io/ve112/`.
+Live site: https://tony-fitness-journal.mq8zhfg9d2.chatgpt.site
+
+The repository also includes a GitHub Pages workflow. To publish through GitHub Pages later, enable **Settings → Pages → Source: GitHub Actions**. Until that setting is enabled, the Pages workflow will fail and `https://tony132321.github.io/ve112/` will not be live.
 
 ## Content still pending
 
